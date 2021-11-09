@@ -1,0 +1,32 @@
+body {
+    background: black;
+}
+h1 {
+    text-align: center;
+}
+.description {
+    background: white;
+    text-align: justify;
+    color: black;
+    height: 150px;
+
+}
+
+img {
+    border: 10px solid white;
+    width: 400px;
+    height: 500px;
+    display: block; margin: 0 auto
+}
+li{
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+}
+body{
+    color: white;
+    padding: 10px;
+    margin: 0;
+
+
+}
